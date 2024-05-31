@@ -13,7 +13,7 @@
   <div class="container-fluid mt-2 mb-2">
   	<div class="col-lg-12">
   		<div class="col-md-1 float-left" style="display: flex;">
-  		
+
   		</div>
       <div class="col-md-4 float-left text-white">
         <large><b><?php echo isset($_SESSION['system']['name']) ? $_SESSION['system']['name'] : '' ?></b></large>
@@ -28,7 +28,7 @@
         </div>
       </div>
   </div>
-  
+
 </nav>
 
 <script>
